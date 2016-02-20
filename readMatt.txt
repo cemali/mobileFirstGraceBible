@@ -1,0 +1,3 @@
+# mediaQueries2015 is the mobile first Grace Bible website. It was structured by Andy Clarke 320 and up style
+# and Sass compass for responsive design. 
+#

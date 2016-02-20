@@ -1,0 +1,68 @@
+// ==========================================================
+
+// 320 and Up by Andy Clarke
+// Version: 3.0
+// URL: http://stuffandnonsense.co.uk/projects/320andup/
+// Apache License: v2.0. http://www.apache.org/licenses/LICENSE-2.0
+
+// ==========================================================
+
+/* 768 =================================================== */
+
+/* add some breathing space. Visually fill the width of the screen, */
+.container {
+    width: 100%; /* 90% */
+    margin:  0 auto; 
+}
+/* that enough space */
+
+.menu-button {
+    display: none;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    padding-bottom: 8px;
+    .logo {
+        float: left;
+    }
+    .nav li {
+        float: left;
+    }
+}
+
+.slider {
+    margin : auto;
+    //padding-top : 46px;
+}
+
+.hero {
+    h1 {
+        font-size: 108px;
+        
+    }
+    p{
+        font-size: 40px;
+    }
+}
+
+.jumbo {
+    h1 {
+        font-size: 108px;
+    }
+    p{
+        font-size: 40px;
+    }
+}
+
+
+
+// 1. ROOT 					==============================
+// 2. TYPOGRAPHY 			==============================
+// 3. COLOUR 				==============================
+// 4. TEXTURE 				==============================
+// 5. ELEMENTS 				==============================
+// 6. LAYOUT 				==============================
+// 7. VENDOR-SPECIFIC 		==============================
+// 8. MODERNIZR 			==============================
+// 9. TEMPLATE SPECIFICS 	==============================
