@@ -5,3 +5,5 @@
 /Icon
 .DS_Store
 *.espressostorage
+.sass-cache
+.htaccess
